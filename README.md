@@ -1,8 +1,9 @@
 # Olá, eu sou o Ricardo Melo 🚀
 
-Sou um Junior Fullstack Developer apaixonado por resolver problemas através da tecnologia e por criar soluções digitais completas.
 
 ## Hello World! 🌍
+
+Sou um Junior Fullstack Developer apaixonado por resolver problemas através da tecnologia e por criar soluções digitais completas.
 
 Atualmente, foco-me no desenvolvimento de aplicações web modernas, trabalhando tanto no **Front-end** como no **Back-end**. Adoro o desafio de aprender novas linguagens e frameworks para construir experiências de utilizador fluidas e eficientes.
 
